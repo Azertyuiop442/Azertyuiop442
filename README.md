@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/eye-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/eye-light.svg" />
-    <img src="./assets/eye-dark.svg" alt="Dark Fantasy Crimson Eye in ASCII" width="450" />
+    <img src="./assets/eye-dark.svg" alt="Dark Fantasy Crimson Eyes &amp; Grin in ASCII" width="480" />
   </picture>
 </p>
 
